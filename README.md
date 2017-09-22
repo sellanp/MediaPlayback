@@ -1,7 +1,7 @@
 # MediaPlayback
 ## Identitas Siswa
 Nama   : Sella Nanda Puspita </br>
-Kelas/No. Urut   : XI RPL 3/33 </br>
+Kelas/No. Urut   : XII RPL 6/31 </br>
 NIS : 4830/1549.070 </br>
 Angkatan  : 24 </br>
 SMK TELKOM MALANG </br>
